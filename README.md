@@ -1,2 +1,2 @@
 # mouseMoveBox
-移動視窗
+拖拽視窗
